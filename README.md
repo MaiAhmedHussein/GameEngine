@@ -1,4 +1,4 @@
-# GameEngine
+# GameEngine (scala)
 
 ## Team Mates:
 * [Mai Ahmed Hussein](https://github.com/MaiAhmedHussein)
